@@ -3,7 +3,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий QA инженер <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с работы в команде Byrotation на должно Junior QA. Спустя пол года мне захотелось расширить свои знания в данной области, сейчас я студен
+Я начинающий QA инженер <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с работы в команде Byrotation на должности Junior QA. Спустя пол года мне захотелось расширить свои знания в данной области, сейчас я студент
 ЯндексПрактикума на курсе автоматизации на Python.
 
 <p align="center">
